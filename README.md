@@ -1,8 +1,10 @@
 ## GloVe: Global Vectors for Word Representation
 
-my_corpus_bees_efrei : The corpus
-vectors.txt : embedding matrix ( generated after being trained on our corpus )
-vocab.txt : numbe rof apparaitions of each word
+File  | Usage
+------------- | -------------
+my_corpus_bees_efrei.txt  | Corpus
+vectors.txt  | generated embedding
+vocab.txt | number of apparaitions of each word
 
 ## Train word vectors on a new corpus
 
